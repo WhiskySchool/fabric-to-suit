@@ -18,7 +18,7 @@ export default function App() {
 
     // Simulated AI generation
     setTimeout(() => {
-      setGeneratedImage("https://images.unsplash.com/photo-1618354691373-4e7e38277e20?auto=format&fit=crop&w=400&h=600&q=80");
+      setGeneratedImage("https://themoderngroom.com/products/midnight-blue#7042938896426-1?auto=format&fit=crop&w=400&h=600&q=80");
       setLoading(false);
     }, 2000);
   };
